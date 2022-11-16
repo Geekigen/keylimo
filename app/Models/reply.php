@@ -1,0 +1,13 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class reply extends Model
+{
+    use HasFactory;
+    protected $table='replies';
+    protected $fillable=['reply','from_id','to_id'];
+}

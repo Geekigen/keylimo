@@ -1,0 +1,23 @@
+{
+    "name": "keylimo",
+    "short_name": "klm",
+    "start_url": "/",
+    "background_color": "#6777ef",
+    "description": "All in one site to make Agriculture purchases",
+    "display": "fullscreen",
+    "theme_color": "#6777ef",
+    "icons": [
+        {
+            "src": "/images/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/icons/icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
